@@ -48,7 +48,7 @@ Potrei parlarvi dei classici laboratori che si fanno all'universita', ma per ora
 - Scritto una applicazione Gui tramite cui interagire con chatgpt (codex).
 - Applicazione sia CLI che Gui di un dimmer per il mio vecchio laptop. Spesso avevo bisogno di un livello di luminosita' che non riuscivo ad impostare tramite le funzioni del sistema operativo, cosi' ho creato anche per curiosita' [questo programma](https://github.com/siizx/linux-screen-brightness-dimmer) che mi permetteva di selezionare il livello preciso di luminosita' che volevo.
 
-Penso sia chiaramente sottointeso ma quasi per tutte queste cose ho consultato video tutorial, corsi gratuiti, libri e ovviamente AI (soprattutto i progetti piu vecchi).
+Penso sia chiaramente sottointeso ma quasi per tutte queste cose ho consultato video tutorial, corsi gratuiti, libri e ovviamente AI (soprattutto per i progetti piu vecchi).
 
 - Vorrei trovare il tempo (ed il coraggio) di imparare l'Assembly per bene. Ci ho un po' giocato per risolvere alcune sfide di THM e HTB utilizzando Ghidra. Magari una volta pucciato il piedino mi spaventa e scappo, ma mi incuriosisce l'interazione codice-macchina a basso livello.
 
