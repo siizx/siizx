@@ -64,4 +64,5 @@ Magari una volta pucciato il piedino mi spaventa e scappo, ma mi incuriosisce l'
 ---
 
 Ecco un premio per essere arrivato in fondo alla pagina:
+
 <img id="random-cat-gif" alt="Random cat gif" src="https://cataas.com/cat/gif">
