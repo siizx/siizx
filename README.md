@@ -41,7 +41,7 @@ Potrei parlarvi dei classici laboratori che si fanno all'universita', ma per ora
 ### Fuori curriculum:
 
 - Ho curiosato il mondo DevOps, affittando VPS e testando varie cose come mettere a disposizione un database PostgreSQL, testato vari servizi utilizzando docker e docker-compose come nextcloud, seafile e altri. Tutto protetto da caddy/nginx e UFW. (Principalmente Hetzner, ma ho anche familiarizzato brevemente con Azure e Google Cloud. Conosco AWS ma non ricordo di averlo mai usato).
-- Di recente ho ripreso a "giocare" su Try Hack Me e Hack The Box, mi divertono molto anche se ovviamente stiamo parlando di livelli di difficolta' bassi.
+- In passato mi sono divertito brevemente a "giocare" su Try Hack Me e Hack The Box (livelli da principianti), poi pero' ho scoperto crackmes.one e penso di essermi innamorato del Reverse Engineering. Una potenziale passione.
 - Ho scritto un semplice hack (bunny hop + fov changer) su counter strike in C# + mGui. Qui i problemi maggiori sono stati: trovare gli offset del gioco; non sapere molto di programmazione concorrente (che ho imparato, finalmente, nell'ultimo semestre della triennale); sintassi di C# e utilizzo di librerie mai viste prima di allora (seguito video tutorial su yt).
 - Anni fa ho comprato uno starter kit di Elegoo UNO con cui mi sono divertito un po a scrivere codici per fare illuminare led, leggere input da sensori o altri dispositivi, scrivere sui display etc.
 - Pubblicato una [Estensione Firefox](https://github.com/siizx/firefox_tabs_numbering) con nome autoesplicativo. Stavo nel pieno del mio periodo di distro hopping dopo la scoperta di linux e utilizzando i Tiling Window Managers come i3, qtile e hyprland, sentivo il bisogno di avere un'estensione che mi numerasse le tabs del browser, in modo da poter navigare esclusivamente con la tastiera, grazie anche a vimium.
@@ -50,7 +50,9 @@ Potrei parlarvi dei classici laboratori che si fanno all'universita', ma per ora
 
 Penso sia chiaramente sottointeso ma quasi per tutte queste cose ho consultato video tutorial, corsi gratuiti, libri e ovviamente AI (soprattutto per i progetti piu vecchi).
 
-- Vorrei trovare il tempo (ed il coraggio) di imparare l'Assembly per bene. Ci ho un po' giocato per risolvere alcune sfide di THM e HTB utilizzando Ghidra. Magari una volta pucciato il piedino mi spaventa e scappo, ma mi incuriosisce l'interazione codice-macchina a basso livello.
+- Vorrei trovare il tempo (e il coraggio) di imparare l'Assembly per bene.
+Ci ho un po' giocato per risolvere alcune sfide di crackmes.one utilizzando Ghidra e x64dbg.
+Magari una volta pucciato il piedino mi spaventa e scappo, ma mi incuriosisce l'interazione codice-macchina a basso livello.
 
 ## Contatti
 
