@@ -60,3 +60,8 @@ Magari una volta pucciato il piedino mi spaventa e scappo, ma mi incuriosisce l'
 - Email: [contact@andreaperes.dev](mailto:contact@andreaperes.dev)
 - Portfolio: [andreaperes.dev](https://andreaperes.dev/)
 - Linkedin: [andrea-peres-6367b830b](https://www.linkedin.com/in/andrea-peres-6367b830b/)
+
+---
+
+Ecco un premio per essere arrivato in fondo alla pagina:
+<img id="random-cat-gif" alt="Random cat gif" src="https://cataas.com/cat/gif">
