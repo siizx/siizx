@@ -4,6 +4,7 @@ Studente di Informatica all'Università degli Studi di Genova (UNIGE).
 
 ## Su di me:
 
+Competenze: C, C++, C#, Java, JS, HTML, PHP, CSS, Python, PostgreSQL, MySQL e altro.
 Interessi non informatici: grappling/BJJ, allenamento, musica, videogiochi e altro.
 
 ## Al momento sto studiando per passare gli esami di:
