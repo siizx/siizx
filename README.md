@@ -61,6 +61,10 @@ Magari una volta pucciato il piedino mi spaventa e scappo, ma mi incuriosisce l'
 - Portfolio: [andreaperes.dev](https://andreaperes.dev/)
 - Linkedin: [andrea-peres-6367b830b](https://www.linkedin.com/in/andrea-peres-6367b830b/)
 
+[![Email](https://img.shields.io/badge/Email-contact%40andreaperes.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@andreaperes.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Peres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-peres-6367b830b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-andreaperes.dev-2EA043?style=for-the-badge)](https://andreaperes.dev/)
+
 ---
 
 Ecco un premio per essere arrivato in fondo alla pagina:
